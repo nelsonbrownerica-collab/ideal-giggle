@@ -82,5 +82,19 @@ h1, h2, h3 {
 }
 
 
+.portfolio-img {
+  width: 100%;
+  max-width: 900px;
+  display: block;
+  margin: 30px auto;
+  border-radius: 10px;
+  box-shadow: 0 0 15px #00eaff;
+}
+
+
+
+
+
+
 
 
