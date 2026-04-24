@@ -33,7 +33,9 @@
 
 .connect-links a:hover {
   background: rgba(0, 0, 0, 0.85);
-}body {
+}
+
+body {
   margin: 0;
   padding: 0;
   background-color: #000000;
@@ -128,6 +130,36 @@ body::before {
   background: rgba(0, 0, 0, 0.75); /* 75% dark overlay */
   z-index: -1;
 }
+
+/* Better spacing for section headers */
+.content-box h2 {
+  margin-top: 40px;
+}
+
+/* Clean list styling */
+.content-box ul {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.content-box li {
+  margin-bottom: 6px;
+}
+
+/* Intro line styling */
+.intro {
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+/* Improve paragraph readability */
+.content-box p {
+  line-height: 1.6;
+}
+
+
+
 
 
 
