@@ -26,9 +26,9 @@ A responsive, accessible portfolio built with semantic HTML and CSS. It presents
 | `contact.html` | Professional contact links |
 | `style.css` | Shared responsive design system |
 | `docs/project-template.md` | Reusable format for documenting future projects |
-| `docs/project-roadmap.md` | Suggested learning and portfolio sequence |
+| `docs/project-roadmap.md` | Suggested learning and portfolio sequence |\n| `projects/01-splunk-soc-triage/README.md` | Splunk SIEM alert-triage starter guide |\n| `projects/02-windows-event-investigation/README.md` | Windows Security event investigation starter guide |\n| `projects/03-phishing-email-analysis/README.md` | Safe phishing-email analysis starter guide |\n| `projects/04-aws-cloudtrail-investigation/README.md` | AWS CloudTrail investigation starter guide |\n| `projects/05-vulnerability-assessment/README.md` | Authorized vulnerability assessment starter guide |
 
-## Project integrity
+## Guided project labs\n\nFive step-by-step starter guides are linked from the Projects page. They include safe lab boundaries, procedures, example data or commands, analysis prompts, and evidence checklists. They are explicitly labeled as starter guides; complete each lab and add your own evidence before describing it as completed.\n\n## Project integrity
 
 Portfolio entries link to learning reports, coursework, and lab journals. Unless explicitly identified otherwise, they represent training or simulated environments—not paid cybersecurity employment, production incident response, or work performed for an employer.
 
