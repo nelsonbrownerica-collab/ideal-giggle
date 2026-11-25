@@ -2,7 +2,7 @@
 
 This roadmap is a learning plan. Items below are not completed projects until the lab is performed, evidence is saved, and a report is written.
 
-## Priority 1 — SOC Analyst foundations
+## Guided project files\n\n- [01 — Splunk SIEM alert triage](../projects/01-splunk-soc-triage/README.md)\n- [02 — Windows security event investigation](../projects/02-windows-event-investigation/README.md)\n- [03 — Phishing email analysis](../projects/03-phishing-email-analysis/README.md)\n- [04 — AWS CloudTrail investigation](../projects/04-aws-cloudtrail-investigation/README.md)\n- [05 — Vulnerability assessment and remediation](../projects/05-vulnerability-assessment/README.md)\n\n## Priority 1 — SOC Analyst foundations
 
 1. **Windows security event investigation**
    - Use a safe sample dataset or isolated lab.
